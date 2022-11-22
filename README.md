@@ -1,10 +1,26 @@
 # learning-shell
-Basics of shell Scripting
-V F C L
-variables
+Shell Topics
+---------------------------------------------------------------
+=> Print 
+echo
+=> V F C L
 
-functions
+Variables(V)
 
-conditions
+Functions(F)
 
-loops
+Conditions(C)
+
+Loops(L)
+
+=> Miscellanous  things for shell scripting
+
+Quotes
+
+Exit status
+
+Special variables
+
+SED editor
+
+
