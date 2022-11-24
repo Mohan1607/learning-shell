@@ -3,6 +3,7 @@
 a=10
 # Acess the variable -$VARNAME
 echo A- $a
+echo C- $c
 # a=10 is hardcoded manually however we need the data dynamically
 # dynamically you can get in 2 ways
 # 1.user input
