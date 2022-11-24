@@ -3,8 +3,6 @@
 a=10
 # Acess the variable -$VARNAME
 echo A- $a
-echo B- $b
-echo C- $c
 
 # a=10 is hardcoded manually however we need the data dynamically
 # dynamically you can get in 2 ways
@@ -13,3 +11,6 @@ echo C- $c
 # command substitution
 # VARNAME=$(command)
 # output of the command stored in variable
+
+# Access the variable from shell
+echo C- $c
