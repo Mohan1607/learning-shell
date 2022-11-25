@@ -2,4 +2,4 @@
 #cat /etc/passwd
 #find / -name shadow
 
-echo -e "\e[32mSUCCESS\e[0m"
+echo -e "\e[31mSUCCESS\e[0m"
