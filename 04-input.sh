@@ -1,10 +1,10 @@
 #read -p "enter mysql user name =" user
-#read -s -p "enter mysql password =" pass
-#echo " password from read = $pass"
+read -s -p "enter mysql password =" pass
+echo  username and password from read = $pass $user
 #echo "username & password from read = $user&$pass"
 
-username=$1
-password=$2
 
-echo $username
-echo $password
+
+
+#echo username=$1
+#echo password=$2
