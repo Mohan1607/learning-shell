@@ -4,7 +4,7 @@ sample () {
   b=20
 }
 
-
+##### main program
 a=10
 sample
 echo B=$b
