@@ -4,6 +4,8 @@ sample () {
   b=20
 }
 
-sample
+
 a=10
 echo B=$b
+
+sample
