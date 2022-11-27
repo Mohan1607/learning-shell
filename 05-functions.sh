@@ -1,14 +1,12 @@
 sample () {
   #echo I AM IN FUNCTION
-  a=40
   echo A=$a
-  b=20
+  b=$2
 }
 
 ##### main program
-a=10
+a=$1
 sample
-b=30
 echo B=$b
 
 
