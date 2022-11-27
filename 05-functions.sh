@@ -6,6 +6,7 @@ sample () {
 
 
 a=10
+sample
 echo B=$b
 
-sample
+
