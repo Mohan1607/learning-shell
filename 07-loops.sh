@@ -4,3 +4,7 @@ while [ $a -gt 5 ]; do
   a=$(($a-1))
 
 done
+for fruits in  apple mango orange  ; do
+
+  echo FRUIT - $fruits
+  done
