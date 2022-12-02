@@ -3,6 +3,7 @@ sample () {
   #echo A=$a
   #b=20
   echo first value=$1
+  return
   echo econd value=$2
 }
 
@@ -10,6 +11,6 @@ sample () {
 #a=10
 #sample
 #echo B=$b
-sample 10 20
+sample 10
 
 
